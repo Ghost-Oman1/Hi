@@ -1,7 +1,4 @@
-# PowerShell-for-Hackers: Combined Functions
-# A collection of hacking functions from I-Am-Jakoby's PowerShell-for-Hackers repository
-# Warning: For educational purposes only. Do not use for malicious purposes.
-# Original source: https://github.com/I-Am-Jakoby/PowerShell-for-Hackers
+
 
 # =========================================================================================================
 # Function: Get-BrowserData
